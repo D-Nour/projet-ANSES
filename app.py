@@ -8,8 +8,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-
-
 # Fonction pour charger les données
 def charger_donnees():
     chemin_fichier_csv = "rappel_conso.csv"
